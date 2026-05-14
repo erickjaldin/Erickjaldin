@@ -10,20 +10,20 @@
 ---
  
 ### 👨‍💻 Sobre
-Estudante de tecnologia na **UNICID**, iniciando a trajetória em **ADS**. Meu foco atual é construir uma base sólida em programação para atuar com **Desenvolvimento Web** e, futuramente, **Ciência de Dados**.
-* **Em destaque:** Já possuo meu primeiro projeto web funcional em HTML.
-* **Aprendendo:** Lógica de programação e automação com Python.
-* **Interesses:** Criação de sites, análise de dados e inovação tecnológica.
+Estudante de tecnologia focado em construir uma carreira sólida em **Desenvolvimento Web** e **Ciência de Dados**. Atualmente no 1º semestre de ADS, venho explorando como a Inteligência Artificial pode ser aplicada para resolver problemas reais e otimizar processos.
+* **Em destaque:** Realizei um estudo analítico sobre a precisão de diferentes modelos de IA.
+* **Projetos IA:** Treinei modelos de visão computacional para reconhecimento de padrões.
+* **Objetivo:** Unir lógica de programação (Python) com criação de interfaces (HTML/CSS).
  
 ---
  
-### 🛠 Tecnologias em Estudo
+### 🛠 Tecnologias & Ferramentas
  
-#### 💻 Web & Programação
+#### 💻 Desenvolvimento & Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
  
 ---
  
@@ -32,12 +32,14 @@ Estudante de tecnologia na **UNICID**, iniciando a trajetória em **ADS**. Meu f
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Projeto Web Inicial** | Meu primeiro site desenvolvido com estrutura HTML. | [Ver Código](./) |
-| **Scripts Python** | Exercícios de lógica e algoritmos da faculdade. | [Ver Pasta](./aulas/) |
+| **Análise de Modelos de IA** | Estudo comparativo avaliando o alcance de objetivos em diferentes modelos de linguagem. | [Ver Estudo](./) |
+| **Detector de Traje (IA)** | Modelo de Machine Learning para identificação de vestimenta (terno). | [Acessar IA](https://teachablemachine.withgoogle.com/models/OH_yVPeqk/) |
+| **NeonQR Studio** | Projeto web inicial desenvolvido com foco em estrutura HTML. | [Ver Código](https://github.com/erickjaldin/neonqr-studio) |
+| **Estudos de Algoritmos** | Exercícios e desafios de lógica de programação com Python. | [Ver Pasta](./aulas/) |
 
 ---
  
 ### 🏗 Estrutura do Repositório
-- `index.html`: Página principal do meu site.
-- `/aulas/`: Pasta para organizar meus estudos da UNICID.
-- `/assets/`: Onde guardo as imagens e arquivos do site.
+- `README.md`: Apresentação do meu perfil profissional.
+- `/aulas/`: Organização dos estudos práticos da faculdade.
+- `estudo-ia.pdf`: Documento detalhado sobre a performance das IAs.
